@@ -254,6 +254,9 @@ html{
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    .image{
+        display: none;
+    }
     .hamburger {
         display: block;
     }
